@@ -4,10 +4,24 @@
 
 /* external, internal, inline */
 
-h1 {
 
+/* headings */
+
+h1 {
 	color: blue;
 }
+
+
+h2 {
+	color: rgb(139,195,74) ;
+}
+
+
+
+
+
+
+
 
 
 
