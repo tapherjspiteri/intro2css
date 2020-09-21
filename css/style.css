@@ -52,6 +52,12 @@ footer {
 
 }
 
+
+/* CHECK THE DIV SETTING BELOW - REMOVE FOR PROJCT */
+
+div {
+	border: solid 1 px #CC00AA;
+}
 /* classes */
 
 

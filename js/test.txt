@@ -1,1 +1,22 @@
-test
+Box Model Notes
+________________
+
+
+1. Height and Width
+- default width is inline elements is the content
+- elements not inline can take width and height properties 
+
+2. Border
+- any element can have a border around it
+- border property specifies style, width and color
+
+how do the elements fit on the screen. 
+- borders can be set and removed later - setting them let you see how much space they take
+
+
+default color - black, 1 px
+
+
+div {
+	border: solid 1 px #CC00AA;
+}
