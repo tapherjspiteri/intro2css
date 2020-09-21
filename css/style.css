@@ -7,20 +7,50 @@
 
 /* headings */
 
+
+header{
+	background: #666666;
+	text-align: center;
+}
+
 h1 {
-	color: blue;
+	color: #FFFFFF;
+	background: #B3B3B3;
+	font-size: 150%;
 }
 
 
 h2 {
-	color: rgb(139,195,74) ;
+	background: #4D607F;
+	color: #9AC1FF;
+	text-align: center;
 }
 
 
+h1 {
+	color: #FFFFFF;
+}
 
+nav{
+	font-family: small-caps;
+	font-size: 150%;
+	font-family: Arial, "Times New Roman", Serif;
+}
 
+details{
+	font-style: italic;
 
+}
 
+summary {
+	font-style: normal;
+
+}
+
+footer {
+	background: #666666;
+
+}
 
 /* classes */
 
