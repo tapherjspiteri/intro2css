@@ -14,9 +14,86 @@ how do the elements fit on the screen.
 - borders can be set and removed later - setting them let you see how much space they take
 
 
+border-style none, dotted, dashed, solid, double, grove, ridge, inset, outset, hidden
+
+
+
 default color - black, 1 px
+
+
+width - px, thin, medium or large
+
+color - can be set or left alone for transparent.
 
 
 div {
 	border: solid 1 px #CC00AA;
 }
+
+
+border-width: 3 px - sets to 3px wide border.
+
+border-width: top, right, bottom, left
+
+
+margin - is the space outside of the border, between you and the next box.
+
+positive margin - move element to right/down
+negative margin - left, up
+
+paddin - space between the element and the border
+ - positive - moves outward from the element
+  - only numerical value, will always be transparent
+
+ Padding is the space between the text and the border.
+
+ Margin is the space between elments.
+
+ additive height and width: if you add 200 px, plus all the other aspects.  Margin + Border + padding + element = actual width of element.
+
+ example:
+
+ div {
+     width: 100px;
+     height: 50px;
+     padding: 10px;
+     margin: 5px;
+     border: 1px solid black;
+ }
+weight = 100 + 5 +5 + 1 + 1  +10 +10
+
+Height. = Top and bottom margin, Top and bottom padding, Top and bottom border
+ TOTAL PIXELS = 
+
+Centering elements on the page:
+
+default:
+
+margin: 0 auto;
+
+- must be block
+- must not float
+mustnot have a fixed or absolute position
+must have a width not set to auto
+
+
+Box-sizing:
+
+- takes some of the math out
+- content-box: default additive
+- border-box: width takes content,padding and border into consideration 
+
+  options are: content-box (default additive), border-box (width takes content, padding and border into consideration : 200 pixels -border, padding) 
+
+  Measurements:
+
+  Absolute: set an element to a specific size
+
+ Fluid: size is relative to surrounding elements, vw, vh, %, em and rem.
+
+ 
+
+
+
+
+

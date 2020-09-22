@@ -6,8 +6,6 @@
 
 
 /* headings */
-
-
 header{
 	background: #666666;
 	text-align: center;
@@ -25,7 +23,6 @@ h2 {
 	color: #9AC1FF;
 	text-align: center;
 }
-
 
 h1 {
 	color: #FFFFFF;
@@ -54,10 +51,14 @@ footer {
 
 
 /* CHECK THE DIV SETTING BELOW - REMOVE FOR PROJCT */
-
+/*
 div {
 	border: solid 1 px #CC00AA;
 }
+
+
+    */
+    
 /* classes */
 
 
