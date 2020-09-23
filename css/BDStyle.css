@@ -15,13 +15,15 @@ div{
 	box-sizing:border-box;
 
 	
-	width:/*add here*/;
-	display:/*add here*/;
+	width:40%;   /* ** */
+ 	display: inline-block /*add here*/;
 	height: 200px;
+
 	margin:5px;
 	border: 20px solid #000000;
 	padding: 15px;
-    margin:/*add here*/;
+    margin: 0 auto /*add here*/;
 	margin-top: 50px;
 }
 
+/* display, h, w, padding */

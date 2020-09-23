@@ -11,10 +11,10 @@ header{
 	text-align: center;
 }
 
-h1 {
-	color: #FFFFFF;
+body {
 	background: #B3B3B3;
 	font-size: 150%;
+	margin: 4%;
 }
 
 
@@ -24,7 +24,7 @@ h2 {
 	text-align: center;
 }
 
-h1 {
+h1{
 	color: #FFFFFF;
 }
 
@@ -50,6 +50,7 @@ footer {
 }
 
 
+
 /* CHECK THE DIV SETTING BELOW - REMOVE FOR PROJCT */
 /*
 div {
@@ -58,7 +59,7 @@ div {
 
 
     */
-    
+
 /* classes */
 
 

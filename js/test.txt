@@ -91,6 +91,12 @@ Box-sizing:
 
  Fluid: size is relative to surrounding elements, vw, vh, %, em and rem.
 
+
+
+ Box model:
+
+ design on paper first,code and tweak. 
+
  
 
 
